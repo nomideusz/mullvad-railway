@@ -1,6 +1,6 @@
 # Deploy and Host Mullvad Browser (Cloud Browser) on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/mullvad?utm_medium=integration&utm_source=button&utm_campaign=mullvad)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/mullvad-browser?utm_medium=integration&utm_source=button&utm_campaign=mullvad-browser)
 
 This template runs a full desktop [Mullvad Browser](https://mullvad.net/en/browser) browser in the cloud, streamed to any device through the [linuxserver.io](https://docs.linuxserver.io/images/docker-mullvad-browser/) Selkies web interface. Open your Railway domain, log in, and you're inside a real browser running on the server — bookmarks, extensions, downloads, and sessions persist between visits.
 
